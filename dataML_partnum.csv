@@ -1,0 +1,150 @@
+Company,CreatedBy,CreatedDate,Part Part Num,Description,Chinese Description,Type,Class ID,Part Ref Category,Track Lots,IUM,PUM,Conversion Factor,Supplier,Planner,NonStock,Is PLPart,ClassBuyerID,PlantBuyerID,Plant Mfg Lot Multiple,MinOrderQty,PackSize,DaysOfSupply,LeadTime,Length,Width,Height,Gross Weight,Net Weight,Correct?
+CMII,chen.caizhen,2026-01-19,CP-PART-16309001-01,PP16309 巫奇·布基燈半品,PP16309 巫奇·布基燈半品,M,WASS,PALA,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+CMII,chen.caizhen,2026-01-19,CP-PACK-16309001-01,PP16309 巫奇·布基燈彩盒包裝-成品,PP16309 巫奇·布基燈彩盒包裝-成品,M,WASS,PALA,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+CMII,AndiAinunJaria,2026-01-19,CP-PACK-CB687509-01,"CB687 vacuum cleaner, half-finished packaging (blue pull tube)",CB687吸塵機包裝半品（藍色拉管）,M,WBOX,CSDB,True,PCS,PCS,,,,False,False,SUB-001,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+CMII,chen.caizhen,2026-01-19,413925-01-AA-01231-A,綠色-前身-噴油,綠色-前身-噴油,M,WSPR,PALA,True,PCS,PCS,,,INJECT,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,13.55,0
+CMII,chen.caizhen,2026-01-19,413920-02-AG-01882-A,綠色-面-噴油/移印,綠色-面-移印,M,WSPR,PALA,True,PCS,PCS,,,INJECT,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,14.98,0
+CMII,chen.caizhen,2026-01-19,ASM-BLIS-16309001-G1,PP16309   吸塑上罩/#16   APET   透明片  24吋,PP16309   吸塑上罩/#16   APET   透明片  24吋,P,BLIS,PALA,True,PCS,PCS,,,,False,False,,INCO-PRC,0,0,0,0,0,0.0,0.0,0.0,0.0,6.3,0
+CMII,Zhong,2026-01-19,ASM-BOXE-CB687047-G1,68750.TJX001 159X127X447mm color box Rvn0126,68750.TJX001 159X127X447mm 開窗彩盒Rvn0126),P,BOXE,CSDB,True,PCS,PCS,,,,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+PLBJ,chen.caizhen,2026-01-19,471111,Shot Item 471111,巫奇·布基灯吸塑上罩,M,WBLI,,False,PCS,PCS,,,BLI,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+CMII,chen.caizhen,2026-01-19,CT-PP14206PAS-01-012,外箱B=B,"外箱B=B 13.5""X10.75""X16.625""",P,CART,PALA,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,0
+CMII,chen.caizhen,2026-01-19,ASM-PAIN-168575RN-01,PA-168575M 半哑莹光红油漆 4L/CAN,PA-168575M 半哑莹光红油漆 4L/CAN,P,PAIN,PALA,False,ML,V-CAN,1.0,HSIN,,False,False,INCO-PRC,INCO-PRC,1000,4000,1000,30,45,0.0,0.0,0.0,0.0,0.0,0
+CMII,chen.caizhen,2026-01-19,ASM-PIGM-130950LS-02,AR-130950 粉紅色粉 30g/份,AR-130950 粉紅色粉 30g/份,P,PIGM,PALA,True,GM,KG,,HSIN,,False,False,INCO-PRC,INCO-PRC,30,0,30,30,45,0.0,0.0,0.0,0.0,0.0,0
+PLBJ,chen.caizhen,2026-01-19,ASM-BLIS-16309001-G1,PP16309   吸塑上罩/#16   APET   透明片  24吋,PP16309   吸塑上罩/#16   APET   透明片  24吋,M,WBLI,,True,PCS,PCS,,,BLI,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,6.3,0
+CMII,AndiAinunJaria,2026-01-20,CP-PACK-CB687510-01,"Penyedot debu CB687, kemasan setengah jadi (selang",CB687吸塵機包裝半品（ 粉紅色拉管）,M,WBOX,CSDB,True,PCS,PCS,,,,False,False,SUB-001,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+CMII,chen.caizhen,2026-01-20,413769-01,Shot Item 413769-01,燈蓋,M,WINJ,PALA,False,PCS,PCS,,,INJECT,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+CMII,chen.caizhen,2026-01-21,CI76248800-TSNUSA-01,BLUEY ARTICULATED FIG,TDSN  布魯伊轉動公仔(0/12),M,FG,CAIT,True,PCS,PCS,,,INJECT,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+CMII,chen.caizhen,2026-01-21,CI76248900-TSNUSA-01,BINGO ARTICULATED FIG,TDSN 賓果轉動公仔(0/12),M,FG,CAIT,True,PCS,PCS,,,INJECT,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+CMII,chen.caizhen,2026-01-23,CP-SMTT-CB688001-G2,CB688 吸塵機SMT半品,CB688 吸塵機SMT半品,P,WASS,CSDB,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+CMII,AndiAinunJaria,2026-01-23,CT-A-CB6900000-000-C,"Papan Samping - Pendek 38 5/8"" x 45 5/8""","側板  - 短 38 5/8"" x 45 5/8""",P,,,True,PCS,PCS,,,,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+CMII,Zhong,2026-01-23,ASM-LABE-CB687114-G1,68770 Bomnamu KC label 14x16cm *Updated content by order,68770 Bomnamu KC label 14x16cm *Updated content by order,P,LABE,CSDB,True,PCS,PCS,,,,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+CMII,chen.caizhen,2026-01-23,CP-SMTT-CB688001-G2,CB688 吸塵機SMT半品,CB688 吸塵機SMT半品,P,WASS,CSDB,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+PLBJ,chen.caizhen,2026-01-23,ASM-PAIN-10289-GP-01,PBU-10289 半啞黃色油漆 4L/CAN,PBU-10289 半啞黃色油漆 4L/CAN,P,PAIN,CAIT,True,ML,V-CAN,4.0,,,False,False,,INCO-PRC,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+CMII,AndiAinunJaria,2026-01-23,CT-A-CB6900000-000-C,"Papan Samping - Pendek 38 5/8"" x 45 5/8""","側板  - 短 38 5/8"" x 45 5/8""",P,,,True,PCS,PCS,,,,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+CMII,Zhong,2026-01-23,ASM-LABE-CB687114-G1,68770 Bomnamu KC label 14x16cm *Updated content by order,68770 Bomnamu KC label 14x16cm *Updated content by order,P,LABE,CSDB,True,PCS,PCS,,,,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+CMII,chen.caizhen,2026-01-23,CP-SMTT-CB688001-G2,CB688 吸塵機SMT半品,CB688 吸塵機SMT半品,P,WASS,CSDB,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+PLBJ,chen.caizhen,2026-01-23,ASM-PAIN-10289-GP-01,PBU-10289 半啞黃色油漆 4L/CAN,PBU-10289 半啞黃色油漆 4L/CAN,P,PAIN,CAIT,True,ML,V-CAN,4.0,,,False,False,,INCO-PRC,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+CMII,lin.haiyan,2026-01-24,420553,Shot Item420553,黃色-基地左/右 /黃色-鏟子 /黃色-屋頂,M,WINJ,THEO,True,PCS,PCS,,,INJECT,False,True,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+CMII,lin.haiyan,2026-01-24,420554,Shot Item420554,黃色-擋泥板/黃色-前底座/黃色-前臂左 /黃色-前臂右 /黃色-輪轂,M,WINJ,THEO,True,PCS,PCS,,,INJECT,False,True,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+CMII,lin.haiyan,2026-01-24,420555,Shot Item 420555,黑色-駕駛室/黑色-駕駛座/黑色-散熱器頂/黑色-散熱器格柵/黑色-梯子,M,WINJ,THEO,True,PCS,PCS,,,INJECT,False,True,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+CMII,chen.caizhen,2026-01-24,ASM-LABE-8279X001-G1,Ф50mm透明圓形貼紙，#20 PP透明強粘性,Ф50mm透明圓形貼紙，#20 PP透明強粘性,P,LABE,PALA,True,PCS,PCS,,,,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+CMII,Zhong,2026-01-19,CB68750I00-TJXUSA-01,Toy Dyson Cordless Vacuum,Dyson Cordless Vacuum 手持吸塵器(0/6),M,FG,CSDB,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,33.2,26.6,46.4,4.7,4.0,1
+CMII,AndiAinunJaria,2026-01-19,CB68770I00-LITISR-01,Dyson Cordless Vacuum Cleaner,Dyson Cordless Vacuum 手持吸塵器(0/6),M,FG,CSDB,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,40.3,33.4,51.6,7.02,6.24,1
+CMII,Zhong,2026-01-19,CB73550I00-KBTAUS-03,Toy Dyson Supersonic & Corrale Deluxe Set,DYSON風筒+直髮器套裝 (0/6),M,FG,CSDB,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,71.0,37.5,26.0,6.11,4.95,1
+CMII,Zhong,2026-01-19,CB73552I00-KBTAUS-01,Toy Dyson Supersonic & Corrale Deluxe Styling Set,DYSON風筒+直髮器套裝-密盒(0/6),M,FG,CSDB,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,44.5999,24.3992,26.7995,3.56,3.008,1
+CMII,chen.caizhen,2026-01-19,CI76243000-ALSUAE-01,MVL AVGR BTTL ARENA,ALS 復仇者聯盟陀螺(0/6),M,FG,CAIT,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+CMII,Zhong,2026-01-19,PP16013TSI-PALAJP-01,Alien Icon Light,"外星人夜灯,TRU版本(6个装一个内箱，24个装一个外箱)",M,FG,PALA,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,47.5,31.4,34.5,4.09,2.35,1
+CMII,Zhong,2026-01-19,PP16014TSI-PALAJP-01, Buzz Lightyear Icon Light,巴斯光年夜灯(TRU 版本 6个装一个内箱，24个装一个外箱),M,FG,PALA,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,47.5,31.4,34.5,4.015,2.28,1
+CMII,Zhong,2026-01-19,PP16015TSI-PALAJP-01,Woody Icon Light,胡迪夜灯(TRU 版本 6个装一个内箱，24个装一个外箱),M,FG,PALA,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,47.5,31.4,34.5,4.5,2.76,1
+CMII,chen.caizhen,2026-01-19,PP16309NBC-PALUSA-01,Oogie Boogie Icon Light,巫奇·布基灯(6/24),M,FG,PALA,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+CMII,Zhong,2026-01-19,PP4017NNV5-PALGRE-01,Mushroom Light,大蘑菇燈(6個裝一個內箱，12個裝一個外箱),M,FG,PALA,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,42.7,28.5,32.7,4.34,2.776,1
+CMII,chen.caizhen,2026-01-19,413737-06-00-01231-A,粉紅-右腿上,粉紅-右腿上,M,WINJ,PALA,True,PCS,PCS,,,INJECT,False,True,,,0,0,0,0,0,0.0,0.0,0.0,0.0,1.25,1
+CMII,chen.caizhen,2026-01-19,413737-07-00-01231-A,粉紅-左腿下,粉紅-左腿下,M,WINJ,PALA,True,PCS,PCS,,,INJECT,False,True,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.25,1
+CMII,chen.caizhen,2026-01-19,413737-08-00-01231-A,粉紅-右腿下,粉紅-右腿下,M,WINJ,PALA,True,PCS,PCS,,,INJECT,False,True,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.25,1
+CMII,chen.caizhen,2026-01-19,413737,Shot Item 413737,公仔頭前后/公仔前后身/左腿上下,M,WINJ,PALA,False,PCS,PCS,,,INJECT,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+CMII,chen.caizhen,2026-01-19,413737-01-00-01231-A,粉紅-公仔身前,粉紅-公仔身前,M,WINJ,PALA,True,PCS,PCS,,,INJECT,False,True,,,0,0,0,0,0,0.0,0.0,0.0,0.0,4.0,1
+CMII,chen.caizhen,2026-01-19,413737-02-00-01231-A,粉紅-公仔身后,粉紅-公仔身后,M,WINJ,PALA,True,PCS,PCS,,,INJECT,False,True,,,0,0,0,0,0,0.0,0.0,0.0,0.0,4.0,1
+CMII,chen.caizhen,2026-01-19,413737-03-00-01231-A,粉紅-公仔頭前,粉紅-公仔頭前,M,WINJ,PALA,True,PCS,PCS,,,INJECT,False,True,,,0,0,0,0,0,0.0,0.0,0.0,0.0,14.0,1
+CMII,chen.caizhen,2026-01-19,413737-04-00-01231-A,粉紅-公仔頭后,粉紅-公仔頭后,M,WINJ,PALA,True,PCS,PCS,,,INJECT,False,True,,,0,0,0,0,0,0.0,0.0,0.0,0.0,10.5,1
+CMII,chen.caizhen,2026-01-19,413737-05-00-01231-A,粉紅-左腿上,粉紅-左腿上,M,WINJ,PALA,True,PCS,PCS,,,INJECT,False,True,,,0,0,0,0,0,0.0,0.0,0.0,0.0,1.25,1
+CMII,chen.caizhen,2026-01-19,413925-02-00-01231-A,綠色-後身,綠色-後身,M,WINJ,PALA,True,PCS,PCS,,,INJECT,False,True,,,0,0,0,0,0,0.0,0.0,0.0,0.0,13.07,1
+CMII,chen.caizhen,2026-01-19,471111,Shot Item 471111,巫奇·布基灯吸塑上罩,M,WINJ,PALA,False,PCS,PCS,,,INJECT,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+CMII,chen.caizhen,2026-01-19,413925,Shot Item 413925,前后身,M,WINJ,PALA,False,PCS,PCS,,,INJECT,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+CMII,chen.caizhen,2026-01-19,413925-01-00-01231-A,綠色-前身,綠色-前身,M,WINJ,PALA,True,PCS,PCS,,,INJECT,False,True,,,0,0,0,0,0,0.0,0.0,0.0,0.0,13.55,1
+CMII,chen.caizhen,2026-01-19,413737-05-AC-01231-A,粉紅-左腿上-移印,粉紅-左腿上-移印,M,WSPR,PALA,True,PCS,PCS,,,SPRAY,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,1.25,1
+CMII,chen.caizhen,2026-01-19,413737-03-AG-01231-A,粉紅-公仔頭前-噴油/移印,粉紅-公仔頭前-噴油/移印,M,WSPR,PALA,True,PCS,PCS,,,SPRAY,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,14.0,1
+CMII,chen.caizhen,2026-01-19,413737-02-AC-01231-A,粉紅-公仔身后-移印,粉紅-公仔身后-移印,M,WSPR,PALA,True,PCS,PCS,,,SPRAY,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,4.0,1
+CMII,chen.caizhen,2026-01-19,413737-01-AA-01231-A,粉紅-公仔身前-噴油,粉紅-公仔身前-噴油,M,WSPR,PALA,True,PCS,PCS,,,SPRAY,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,4.0,1
+CMII,chen.caizhen,2026-01-19,413737-06-AC-01231-A,粉紅-右腿上-移印,粉紅-右腿上-移印,M,WSPR,PALA,True,PCS,PCS,,,SPRAY,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,1.25,1
+CMII,chen.caizhen,2026-01-19,ASM-BOXE-16309001-G1,"PP16309 巫奇·布基燈裱窗10#PET新彩盒     / 135x105x90mm,350克雙銅+正面啞","PP16309 巫奇·布基燈裱窗10#PET新彩盒     / 135x105x90mm,350克雙銅+正面啞",P,BOXE,PALA,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,Zhong,2026-01-19,ASM-INST-CB687052-G1,"68750.TJX001  customized IM Rvn ,Kertas A4 80g dicetak dengan dua sisi",68750.TJX001專用說明書， A4 80g 紙雙面印刷(對折2次),P,INST,CSDB,True,PCS,PCS,,LKIL,ASM,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+CMII,chen.caizhen,2026-01-19,ASM-LABE-76243022-G1,  762430 ALS 外箱貼 紙（MKT)   /  10*20.3CM,  762430 ALS 外箱貼 紙（MKT)   /  10*20.3CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,chen.caizhen,2026-01-19,ASM-PAIN-168572RN-01,PA-168572M 半哑浅黄油漆  1L/CAN,PA-168572M 半哑浅黄油漆  1L/CAN,P,PAIN,PALA,True,ML,V-CAN,1.0,HSIN,,False,False,INCO-PRC,INCO-PRC,1000,1000,1000,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,chen.caizhen,2026-01-19,ASM-PAIN-168573RN-01,PA-168573M 半哑紫红油漆  4L/CAN,PA-168573M 半哑紫红油漆  4L/CAN,P,PAIN,PALA,True,ML,V-CAN,4.0,HSIN,,False,False,INCO-PRC,INCO-PRC,4000,4000,4000,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,chen.caizhen,2026-01-19,ASM-PAIN-168574RN-01,PA-168574M 半哑紫红油漆  4L/CAN,PA-168574M 半哑紫红油漆  4L/CAN,P,PAIN,PALA,True,ML,V-CAN,4.0,HSIN,,False,False,INCO-PRC,INCO-PRC,4000,4000,4000,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,chen.caizhen,2026-01-19,ASM-PAIN-94912-RN-01,EA-94912M 半哑浅黄油漆  1L/CAN,EA-94912M 半哑浅黄油漆  1L/CAN,P,PAIN,PALA,True,ML,V-CAN,1.0,HSIN,,False,False,INCO-PRC,INCO-PRC,1000,1000,1000,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,chen.caizhen,2026-01-19,ASM-PAIN-94914-RN-01,EA-94914M 半哑深灰 1L/CAN,EA-94914M 半哑深灰 1L/CAN,P,PAIN,PALA,True,ML,V-CAN,1.0,HSIN,,False,False,INCO-PRC,INCO-PRC,1000,1000,1000,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,chen.caizhen,2026-01-19,ASM-PAIN-AK05M-GP-01,AK-05M 黑色油漆 4L/CAN,AK-05M 黑色油漆 4L/CAN,P,PAIN,PALA,True,ML,V-CAN,4.0,HSIN,,False,False,INCO-PRC,INCO-PRC,4000,4000,4000,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,chen.caizhen,2026-01-19,ASM-PIGM-55205-LS-01,AG-55205 綠色色粉 35g/份,AG-55205 綠色色粉 35g/份,P,PIGM,PALA,True,GM,KG,,HSIN,,False,False,INCO-PRC,INCO-PRC,35,35,35,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,chen.caizhen,2026-01-19,ASM-TISS-30702150-01,"17g雙面包装纸     30.7""X21.5""","17g雙面包装纸     30.7""X21.5""",P,TISS,PALA,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,wen.haoling,2026-01-19,ASM-MAGN-2397X004-G1," #2397X / N45 Magnet dua sisi,  Perlu diberi tanda kutub N，25X8X4mm Medan Magnet Permukaan：≧3690 Gauss  Supplier：Fuzheng",#2397X / N45磁石 双面  需标注N极，25X8X4mm 表面磁場：≧3690高斯  供应商：富正,P,MAGN,MCKI,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,wen.haoling,2026-01-20,MK000000WG-13PLID-01,Kit 13 Timer,Kit 13  計時器,M,FG,MKID,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+CMII,wen.haoling,2026-01-20,MK102852WH-PGPLID-01,Play gym Finished product of connector assembly,Play gym连接头组装成品,M,FG,MKID,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+CMII,wen.haoling,2026-01-20,MK102879WH-PGPLID-01,Play gym card holder,Play gym 卡片夹CARD CLIP(PP 3015),M,FG,MKID,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+CMII,wen.haoling,2026-01-20,MKAY100151-PGFBID-01,Play gym Tent floor mat components,Playgym帐篷地垫组件（含内置长形铃铛红色枕头+内置褶皱纸片橙色枕头+内置圆形铃铛黄色枕头+绿色波浪形硅胶圈各1个）,M,FG,MKID,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+CMII,wen.haoling,2026-01-20,MKPN100628-PGFBID-01,Play gym short cotton webbing,Play gym短棉织带(含魔术贴),M,FG,MKID,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+CMII,wen.haoling,2026-01-20,MKPN100629-PGFBID-01,Play gym Long cotton webbing,Play gym长棉织带(含魔术贴),M,FG,MKID,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+CMII,wen.haoling,2026-01-20,MKPN100631-PGFBID-01,Play gym tent top,Playgym帐篷顶(polyester twill knit),M,FG,MKID,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+CMII,wen.haoling,2026-01-20,MKPN100632-PGFBID-01,Play gym Black and white balls,Play gym黑白球(材质:棉质帆布，填充物:聚酯纤维,M,FG,MKID,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+CMII,wen.haoling,2026-01-20,MKPN100633-PGFBID-01,Play gym Ear-free assembled finished product,免耳朵装配成品,M,FG,MKID,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+CMII,AndiAinunJaria,2026-01-20,CB77050IAP-LITISR-01,DeLonghi Barista Coffee Machine,咖啡機 (0/6),M,FG,CSDB,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,57.15,28.8938,63.5,9.17,8.26,1
+CMII,chen.caizhen,2026-01-20,413769-01-00-01038-B,半透明白-燈蓋,半透明白-燈蓋,M,WINJ,PALA,True,PCS,PCS,,,INJECT,False,True,,,0,0,0,0,0,0.0,0.0,0.0,0.0,3.54,1
+CMII,lin.haiyan,2026-01-20,450560-01-00-01A88-A,.,绿色-可折叠箱,M,WINJ,THEO,True,PCS,PCS,,,INJECT,False,True,,,0,0,0,0,0,0.0,0.0,0.0,0.0,388.5,1
+CMII,lin.haiyan,2026-01-20,450561-01-00-01343-A,.,紅色-左锁扣,M,WINJ,THEO,True,PCS,PCS,,,INJECT,False,True,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+CMII,lin.haiyan,2026-01-20,450561-02-00-01343-A,.,紅色-右锁扣,M,WINJ,THEO,True,PCS,PCS,,,INJECT,False,True,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+CMII,lin.haiyan,2026-01-20,450562-01-00-01A96-A,.,原色-透明窗,M,WINJ,THEO,True,PCS,PCS,,,INJECT,False,True,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+CMII,lin.haiyan,2026-01-20,450636-02-00-01014-A,.,原色-下离合齿,M,WINJ,THEO,True,PCS,PCS,,,INJECT,False,True,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.54,1
+CMII,chen.caizhen,2026-01-20,413932-02-AC-02231-A,紫色-方底座上売-移印,紫色-方底座上売-移印,M,WSPR,PALA,True,PCS,PCS,,,SPRAY,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,61.54,1
+CMII,chen.caizhen,2026-01-20,413932-03-AC-02231-A,紫色-方底座蓋-移印,紫色-方底座蓋-移印,M,WSPR,PALA,True,PCS,PCS,,,SPRAY,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,45.12,1
+CMII,AndiAinunJaria,2026-01-20,ASM-LABE-CB770038-G1,770 Little Prince Importer label 120x60mm, 770 Little Prince 進口商貼紙     /     120x60mm,P,LABE,CSDB,True,PCS,PCS,,SINB,,False,False,,PRD-001,0,0,0,15,30,0.0,0.0,0.0,0.0,0.0,1
+CMII,lin.haiyan,2026-01-20,ASM-PIGM-160095LS-01,.,AS-160095 銀色色粉  103G/25KG,P,PIGM,THEO,True,GM,KG,,HSIN,,False,False,INCO-PRC,INCO-PRC,103,103,103,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,lin.haiyan,2026-01-20,ASM-PIGM-32533-LS-01,.,AY-32533 黃色色粉 60G/25KG,P,PIGM,THEO,True,GM,KG,,HSIN,,False,False,INCO-PRC,INCO-PRC,60,60,60,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,chen.caizhen,2026-01-20,ASM-TISS-71257125-01,"17g雙面包裝紙     /     7.125""X7.125""","17g雙面包裝紙     /     7.125""X7.125""",P,TISS,PALA,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.055,1
+PLBJ,chen.fudi,2026-01-20,CT-762449APAS-01-006,762449 APAC (1/6裝)外箱,"762449 APAC (1/6裝)外箱200LBS     /     23""x13.5""x12.5""",P,CART,CAIT,True,PCS,PCS,,LKIL,,True,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.fudi,2026-01-20,CT-762449DPMU-01-006,762449 (0/6裝)外箱,"762449 0/6裝外箱200LBS     /     22.5""x12.75""x11.75""",P,CART,CAIT,True,PCS,PCS,,LKIL,,True,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.fudi,2026-01-20,CT-762449TSNU-01-006,762449 TDSN (1/6裝)外箱,"762449 TDSN (1/6裝)外箱200LBS     /     22.5""x13.25""x11.75""",P,CART,CAIT,True,PCS,PCS,,LKIL,,True,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.fudi,2026-01-20,CT-762450DLPF-01-006,762450 (0/6裝)外箱,"762450 (0/6裝)外箱200LBS     /     22.5""x12.75""x11.75""",P,CART,CAIT,True,PCS,PCS,,LKIL,,True,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.fudi,2026-01-20,ASM-LABE-76247632-G1,762476,762476 SHDR 價錢貼紙（MKT) 3*2CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.fudi,2026-01-20,ASM-LABE-76247633-G1,762476,762476 SHDR 外箱貼紙（MKT) 10.16 *15.24 CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.fudi,2026-01-20,ASM-LABE-76247634-G1,762476,762476 SHDR 合格證貼紙 16.7*7.8CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.fudi,2026-01-20,ASM-LABE-76247635-G1,762476,762476 SHDR 公仔名稱貼紙 10.3843*2.0291CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.fudi,2026-01-20,ASM-LABE-76247636-G1,762476,762476 SHDR 銘牌貼紙 3.3191*0.865CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.fudi,2026-01-20,ASM-SIOC-76244901-G1,"762449 郵包盒200磅單坑，11.25""X4.25""X11.75""","762449 郵包盒200磅單坑，11.25""X4.25""X11.75""",P,SIOC,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,wen.haoling,2026-01-21,ELE-MODU-KIT13001-G2,Kit 13 Komponen PCBA Timer Alarm Clock,Kit 13 鬧鐘計時器 PCBA組件,M,WELE,MKID,True,PCS,PCS,,,ELEC,False,False,,,0,0,0,10,0,0.0,0.0,0.0,0.0,0.0,1
+CMII,wen.haoling,2026-01-21,ELE-BATT-54AA0021-G2,GP Battery 1.5V AA size Alkaline Battery,GPI鹹性電池   /   GP Battery 1.5V AA size Alkaline Batterv,P,BATT,MKID,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,11.64,1
+CMII,chen.caizhen,2026-01-21,ASM-LABE-16289001-G1,ROSS內箱貼紙  102X105MM,ROSS內箱貼紙  102X105MM,P,LABE,PALA,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,chen.caizhen,2026-01-21,ASM-LABE-16289002-G1,ROSS外箱貼紙  102X105MM,ROSS外箱貼紙  102X105MM,P,LABE,PALA,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,chen.caizhen,2026-01-21,ASM-LABE-76248803-G1,762488 TDSN 價錢貼紙（MKT)     3*2 CM,762488 TDSN 價錢貼紙（MKT)     3*2 CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,chen.caizhen,2026-01-21,ASM-LABE-76248804-G1,762488 TDSN 外箱貼紙 （MKT)   10*20.3CM,762488 TDSN 外箱貼紙 （MKT)   10*20.3CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,chen.caizhen,2026-01-21,ASM-LABE-76248903-G1,762489 TDSN 價錢貼紙（MKT)     3*2 CM,762489 TDSN 價錢貼紙（MKT)     3*2 CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,chen.caizhen,2026-01-21,ASM-LABE-76248904-G1, 762489 TDSN 外箱貼紙 （MKT)   10*20.3CM, 762489 TDSN 外箱貼紙 （MKT)   10*20.3CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,lin.haiyan,2026-01-21,CT-A-BT2020-000-0002,BT2020方形底托卡,BT2020方形底托卡,P,LAYR,BRAF,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,lin.haiyan,2026-01-21,CT-A-BT2020-000-0003,BT2020 三角形頂托卡,BT2020 三角形頂托卡,P,LAYR,BRAF,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,wen.haoling,2026-01-21,ELE-PCBS-11151051-G2,"# Kit 13  單面紙板     /     30x11x1.2mm, Proses OSP, Tebal Tembag 35UM","# Kit 13  單面紙板     /     30x11x1.2mm, OSP工藝, 銅皮厚35UM",P,PCBS,MKID,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.7,1
+CMII,lin.haiyan,2026-01-21,ASM-PIGM-131021LS-02,ABL-131021 黑色色粉 500G/25KG,ABL-131021 黑色色粉 500G/25KG,P,PIGM,THEO,True,GM,KG,,HSIN,,False,False,INCO-PRC,INCO-PRC,500,500,500,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,lin.haiyan,2026-01-21,ASM-PIGM-55252-LS-01,AG-55252 绿色色粉 90G/25KG,AG-55252 绿色色粉 90G/25KG,P,PIGM,THEO,True,GM,KG,,HSIN,,False,False,INCO-PRC,INCO-PRC,90,90,90,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,wen.haoling,2026-01-21,ELE-RESI-31075953-G2,Resistor Chip (RoHS/Non-Phthalate)     /     75Ω 1/16W ±1% 0603,片狀電阻(RoHS/Non-Phthalate)     /     75Ω 1/16W ±1% 0603,P,RESI,MKID,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.002,1
+CMII,wen.haoling,2026-01-21,ELE-SWIT-97000055-G2,Sakelar (RoHS/Non-Phthalate)     /     SS-23E06-G6,撥動開關(RoHS/Non-Phthalate)     /     SS-23E06-G6,P,SWIT,MKID,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,1.1,1
+CMII,wen.haoling,2026-01-21,ASM-ORIN-KIT13001-G2,Mekanisme Timer / Jump Second DW8.8 hitung mundur 1.5V,機芯計時器/ 跳秒DW8.8反走計時 1.5V,P,WELE,MKID,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,21.3,1
+PLBJ,chen.fudi,2026-01-21,CI76244900-HKDHKG-01,Moana Best of Figurine Set (0/6),HKDL 海洋奇緣版本2(0/6),M,FG,CAIT,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.caizhen,2026-01-21,ASM-CDIN-76247201-G1,米奇10色筆吊牌印4C過光油折兩  /  162LX 48W mm 250gsm雙粉紙,米奇10色筆吊牌印4C過光油折兩  /  162LX 48W mm 250gsm雙粉紙,P,CDIN,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.caizhen,2026-01-21,ASM-CDIN-76247301-G1,米妮10色筆吊牌印4C過光油折兩  /  162LX 48W mm 250gsm雙粉紙,米妮10色筆吊牌印4C過光油折兩  /  162LX 48W mm 250gsm雙粉紙,P,CDIN,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.caizhen,2026-01-21,ASM-CDIN-76247401-G1,維尼熊10色筆吊牌印4C過光油折兩次  /  162LX 48W mm 250gsm雙粉紙,維尼熊10色筆吊牌印4C過光油折兩次  /  162LX 48W mm 250gsm雙粉紙,P,CDIN,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.caizhen,2026-01-21,ASM-CDIN-76247501-G1,史迪仔10色筆吊牌印4C過光油折兩次  /  162LX 48W mm 250gsm雙粉紙,史迪仔10色筆吊牌印4C過光油折兩次  /  162LX 48W mm 250gsm雙粉紙,P,CDIN,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.fudi,2026-01-21,ASM-LABE-76244922-G1,762449,762449 HKDL 價錢貼紙 （MKT) 3*2CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.fudi,2026-01-21,ASM-LABE-76244923-G1,762449,762449 HKDL 外箱貼紙（MKT) 10.16 *15.24 CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.fudi,2026-01-21,ASM-LABE-76244924-G1,762449,762449 HKDL 中文警告語貼紙 10.15*1.8 CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.caizhen,2026-01-21,ASM-LABE-76247208-G1,762472 Go Retail 價錢貼紙（MKT) （MKT)，3*2 CM,762472 Go Retail 價錢貼紙（MKT) （MKT)，3*2 CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.caizhen,2026-01-21,ASM-LABE-76247209-G1,762472  Go Retail 外箱貼紙（MKT) ，15.24*10.16 CM,762472  Go Retail 外箱貼紙（MKT) ，15.24*10.16 CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.caizhen,2026-01-21,ASM-LABE-76247210-G1,762472  LVP 價錢貼紙（MKT) （MKT)，3*2 CM,762472  LVP 價錢貼紙（MKT) （MKT)，3*2 CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.caizhen,2026-01-21,ASM-LABE-76247308-G1,762473 Go Retail 價錢貼紙（MKT) （MKT)，3*2 CM,762473 Go Retail 價錢貼紙（MKT) （MKT)，3*2 CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.caizhen,2026-01-21,ASM-LABE-76247309-G1,762473  Go Retail 外箱貼紙（MKT) ，15.24*10.16 CM,762473  Go Retail 外箱貼紙（MKT) ，15.24*10.16 CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.caizhen,2026-01-21,ASM-LABE-76247310-G1,762473  LVP 價錢貼紙（MKT) （MKT)，3*2 CM,762473  LVP 價錢貼紙（MKT) （MKT)，3*2 CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.caizhen,2026-01-21,ASM-LABE-76247408-G1,762474 Go Retail 價錢貼紙（MKT) （MKT)，3*2 CM,762474 Go Retail 價錢貼紙（MKT) （MKT)，3*2 CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.caizhen,2026-01-21,ASM-LABE-76247409-G1,762474  Go Retail 外箱貼紙（MKT) ，15.24*10.16 CM,762474  Go Retail 外箱貼紙（MKT) ，15.24*10.16 CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.caizhen,2026-01-21,ASM-LABE-76247410-G1,762474  LVP 價錢貼紙（MKT) （MKT)，3*2 CM,762474  LVP 價錢貼紙（MKT) （MKT)，3*2 CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.caizhen,2026-01-21,ASM-LABE-76247508-G1,762475 Go Retail 價錢貼紙（MKT) （MKT)，3*2 CM,762475 Go Retail 價錢貼紙（MKT) （MKT)，3*2 CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.caizhen,2026-01-21,ASM-LABE-76247509-G1,762475  Go Retail 外箱貼紙（MKT) ，15.24*10.16 CM,762475  Go Retail 外箱貼紙（MKT) ，15.24*10.16 CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.caizhen,2026-01-21,ASM-LABE-76247510-G1,762475  LVP 價錢貼紙（MKT) （MKT)，3*2 CM,762475  LVP 價錢貼紙（MKT) （MKT)，3*2 CM,P,LABE,CAIT,True,PCS,PCS,,LKIL,,False,False,,INCO-PRC,0,0,0,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,Burhan,2026-01-21,ASM-PIGM-00093-UC-01,UMW-00093 Putih campur biji plastik ABS 1500gr/pack,UMW-00093 白色颜料混合ABS塑料颗粒 1500g/份 #0329,P,PIGM,MCKI,True,GM,KG,,UCON,,False,False,,PRD-001,1500,1500,1500,30,45,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,Burhan,2026-01-21,ASM-PIGM-122118UC-01,W-122118 Putih campur biji plastik ABS 1000gr/pack,W-122118  白色颜料混合ABS塑料颗粒 1000g/份#0329,P,PIGM,MCKI,True,GM,KG,,UCON,,False,False,,PRD-001,1000,1000,1000,30,45,0.0,0.0,0.0,0.0,0.0,1
+CMII,wen.haoling,2026-09-22,319259,披萨盒上 / 下壳,披萨盒上 / 下壳,M,INJM,TOMY,False,PCS,PCS,,,INJECT,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,chen.caizhen,2026-09-22,CP-PACK-762508004-01,762508-蝴蝶筆包裝成品,762508-蝴蝶筆包裝成品,M,WASS,CAIT,True,PCS,PCS,,,ASM,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,wen.haoling,2026-09-11,ELE-MODU-5810XTX0-G2,#5810X-TX遙控倒後鏡電子組件,#5810X-TX遙控倒後鏡電子組件,M,MODU,MCKI,True,SET,SET,1.0,,ELEC,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,wen.haoling,2026-09-11,ELE-MODU-5810XRX0-G2,#5810X-RX遙控倒後鏡電子組件,#5810X-RX遙控倒後鏡電子組件,M,MODU,MCKI,True,SET,SET,1.0,,ELEC,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,wen.haoling,2026-09-11,319280,垃圾筒底   319280,垃圾筒底   319280,M,INJM,MCKI,False,PCS,PCS,,,INJECT,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,wen.haoling,2026-09-11,319269,頂蓋  319269,頂蓋  319269,M,INJM,MCKI,False,PCS,PCS,,,INJECT,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,wen.haoling,2026-09-11,319292,齒輪殼右 / 左  319292,齒輪殼右 / 左  319292,M,INJM,MCKI,False,PCS,PCS,,,INJECT,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,wen.haoling,2026-09-11,319278,桶門   319278,桶門   319278,M,INJM,MCKI,False,PCS,PCS,,,INJECT,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,wen.haoling,2026-09-11,319270,桶身面板  319270,桶身面板  319270,M,INJM,MCKI,False,PCS,PCS,,,INJECT,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
+PLBJ,wen.haoling,2026-09-11,319288,香粉盒支架  319288,香粉盒支架  319288,M,INJM,MCKI,False,PCS,PCS,,,INJECT,False,False,,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1
